@@ -1,4 +1,7 @@
-#ITERAR = REPETIR
+#FOR E RANGE
+# 
+# 
+# #ITERAR = REPETIR
 # #exemplo utilizando um objeto iteravel
 #ele percorre o nome e procura as vogais do nome
 
