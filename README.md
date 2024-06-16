@@ -1,1 +1,1 @@
-estudando estruturas de repetição e de condição.
+estudando estruturas de repetição e condição.
